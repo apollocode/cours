@@ -217,7 +217,7 @@ h1 {
   font-size: 22px;
   color: red;
 }
-``
+```
 Remarquez qu'ici nous avons utilisé comme selecteur un type de balise HTML: H1. Du coup les styles que l'on a défini entre les accolades vont s'appliquer a TOUS LES ELEMENTS H1 de la page Html! De la meme manière on aurait pu utiliser ul, li, h3, div... n'importe quelle balise Html peut etre utilisée comme selecteur.
 Mais comment faire lorsqu'on veut appliquer un style seulement à certains titres h1, et pas tous, ou à certaines div, et pas toutes?
 Dans ces cas là on a recours à 2 outils clés dont nous avons déja parlé, les class et les ID
